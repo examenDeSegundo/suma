@@ -9,3 +9,6 @@ function sumar() {
     document.getElementById("resultado").textContent = "Resultado: " + suma;
   }
 }
+
+
+alert('archivo modificado , si se pudo');
